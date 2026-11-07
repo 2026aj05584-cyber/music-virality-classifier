@@ -1,6 +1,6 @@
 # Music Virality Prediction & Classification
 
-**Course:** M.Tech (AIML) — Machine Learning  
+**Course:** M.Tech (AIML) Machine Learning  
 **Institution:** BITS Pilani (Work Integrated Learning Programmes Division)  
 **Assignment:** Assignment - 2  
 
@@ -16,7 +16,7 @@ The goal of this project is to develop and deploy an end-to-end Machine Learning
 
 ## b. Dataset Description
 
-* **Dataset Name:** What Makes a Song Go Viral? — 10,000 Tracks with Audio Features
+* **Dataset Name:** What Makes a Song Go Viral? 10,000 Tracks with Audio Features
 * **Source:** [Kaggle - What Makes a Song Go Viral? (10,000 Tracks)](https://www.kaggle.com/datasets/vedauv/what-makes-a-song-go-viral-10000-tracks)
 * **Total Instances:** 10,000 tracks
 * **Total Features Used:** 12 predictive features (1 categorical + 11 numerical)
