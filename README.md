@@ -44,8 +44,8 @@ The goal of this project is to develop and deploy an end-to-end Machine Learning
 
 ## c. Github Repository Link
 
-* **GitHub Repository:** `<PASTE_YOUR_GITHUB_REPO_URL_HERE>`
-* **Live Streamlit App:** `<PASTE_YOUR_STREAMLIT_APP_URL_HERE>`
+* **GitHub Repository:** [https://github.com/2026aj05584-cyber/music-virality-classifier](https://github.com/2026aj05584-cyber/music-virality-classifier)
+* **Live Streamlit App:** [https://music-virality-classifier-aftzyu76sekuncn36m6nbj.streamlit.app/](https://music-virality-classifier-aftzyu76sekuncn36m6nbj.streamlit.app/)
 
 ---
 
@@ -110,8 +110,8 @@ Assignment2/
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_REPO_URL>
-   cd Assignment2
+   git clone https://github.com/2026aj05584-cyber/music-virality-classifier.git
+   cd music-virality-classifier
    ```
 
 2. **Create and activate virtual environment:**
